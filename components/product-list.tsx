@@ -1,6 +1,6 @@
 import React from "react";
 
-import { Product } from "@/type";
+import { Product } from "@/types";
 import NoResults from "@/components/ui/no-results";
 import ProductCard from "@/components/ui/product-card";
 

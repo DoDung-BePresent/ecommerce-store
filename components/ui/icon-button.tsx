@@ -1,3 +1,4 @@
+"use client"
 import React, { MouseEventHandler } from "react";
 
 import { cn } from "@/lib/utils";
